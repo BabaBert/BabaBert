@@ -1,4 +1,5 @@
-![Berts's github stats](https://github-readme-stats.vercel.app/api?username=bababert&theme=vision-friendly-dark)
+
+<img src="https://github-readme-stats.vercel.app/api?username=bababert&theme=vision-friendly-dark" width="100%" height="100%">
 
 <!--
 **BabaBert/BabaBert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
